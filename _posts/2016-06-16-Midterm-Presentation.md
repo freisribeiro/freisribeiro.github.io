@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Build, Control, or Manipulate?"
-quote: "Defining a Research Topic."
+title: "Midterm Presentation"
+quote: "Reasearch Board."
 image:
       url: /media/2016-06-10-Caustics-in-Chicago/DSC02692.JPG
 video: false

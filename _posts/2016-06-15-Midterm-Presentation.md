@@ -11,4 +11,4 @@ theme_color: 302F2D
 
 ### Midterm Board
 
-{% include image.html url="/media/MistermBoard.jpg" width="200%" description="Board" %}
+{% include image.html url="/media/MistermBoard.jpg" width="300%" description="Board" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Midterm Presentation"
-quote: "Research Board."
+title: "Creating Surfaces"
+quote: "Image Sampler."
 image:
       url: /media/2016-06-10-Caustics-in-Chicago/DSC02692.JPG
 video: false

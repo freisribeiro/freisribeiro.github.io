@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acryilic Façades"
+title: "Acrylic Façades"
 quote: "Acrylic potential"
 image:
       url: /media/2016-06-30-First-Tests/DSC03411-2.jpg

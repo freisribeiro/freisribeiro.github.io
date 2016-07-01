@@ -8,7 +8,7 @@ permalink: about/
   Digital Fabrication Research Blog
 </div>
 
-{% include image.html url="/media/13550906_732512150185355_992114678_n.jpg" width="100%" description="SC Johnson Headquarters." %}
+{% include image.html url="/media/13550906_732512150185355_992114678_n.jpg" width="50%" description="SC Johnson Headquarters." %}
 
 Hey!
 

@@ -8,6 +8,8 @@ permalink: about/
   Digital Fabrication Research Blog
 </div>
 
+{% include image.html url="/media/213550906_732512150185355_992114678_n.jpg" width="100%" description="SC Johnson Headquarters." %}
+
 Hey!
 
 I'm Fernanda Reis Ribeiro, I'm an Architecture and Urban Planning undergraduate student at University of Brasilia, Brazil. I did a year architecture exchange program at Louisiana State University, and now I'm a summer researcher at Illinois Institute of Technology. The focus of this research is to  create innovative software and hardware workflows for design experimentation using consumer grade fabrication technologies (CNC, 3D printing, laser cutter).

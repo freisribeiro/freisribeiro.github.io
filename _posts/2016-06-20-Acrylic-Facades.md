@@ -12,7 +12,7 @@ theme_color: 302F2D
 
 {% include image.html url="/media/2016-06-20-Acrylic-Facades/03s.jpg" width="100%" description="Façade" %}
 
-{% include image.html url="/media/2016-06-20-Acrylic-Facades/Reiss acrylic milling process and complete panel.png" width="100%" description="Millin Process" %}
+{% include image.html url="/media/2016-06-20-Acrylic-Facades/Reiss acrylic milling process and complete panel.png" width="100%" description="Milling Process" %}
 
 {% include image.html url="/media/2016-06-20-Acrylic-Facades/barrett.jpg" width="100%" description="Solar Scheme" %}
 

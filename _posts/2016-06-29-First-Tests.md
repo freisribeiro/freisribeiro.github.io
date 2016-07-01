@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Acryilic Façades"
-quote: "Acrylic potential"
+title: "First Tests"
+quote: "Testing some Models"
 image:
       url: /media/2016-06-30-First-Tests/DSC03411-2.jpg
 video: false

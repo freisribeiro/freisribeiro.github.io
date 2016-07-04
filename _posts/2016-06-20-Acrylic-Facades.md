@@ -8,6 +8,10 @@ video: false
 comments: true
 theme_color: 302F2D
 ---
+
+"The PMMA / acrylic can be easily molded to achieve fuzzy shapes at a cost which is only a fraction of glass. In solid state, acrylic sheets can be cut and mechanized using laser cut CNC machines to provide extrusion-like profiles. A great example is the facade of the Reiss HQ building in London by Squire and Partners architects, with a machined PMMA external skin, and lit with an LED system at the bottom of each floor level." facadesconfidential.blogspot
+
+
 {% include image.html url="/media/2016-06-20-Acrylic-Facades/01s.jpg" width="100%" description="Façade" %}
 
 {% include image.html url="/media/2016-06-20-Acrylic-Facades/03s.jpg" width="100%" description="Façade" %}
